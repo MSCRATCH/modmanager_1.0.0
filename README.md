@@ -9,6 +9,7 @@ Modmanager 1.0.0 is a file management tool designed specifically for video games
 ![MySQLi](https://img.shields.io/badge/MySQLi-blue.svg)
 ![HTML](https://img.shields.io/badge/HTML-5-orange.svg)
 ![CSS](https://img.shields.io/badge/CSS-3-blue.svg)
+![GIMP](https://img.shields.io/badge/GIMP-2.x-blue.svg)
 
 *Installation*
 
